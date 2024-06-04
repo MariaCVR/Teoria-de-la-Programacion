@@ -5,15 +5,15 @@ Este repositorio tiene las soluciones a los ejercicios del taller de programaci√
 
 -- For https://github.com/MariaCVR/Teoria-de-la-Programacion/blob/main/Problema1_for.c
 
--- Whilehttps://github.com/MariaCVR/Teoria-de-la-Programacion/blob/main/Problema1_while.c
+-- While https://github.com/MariaCVR/Teoria-de-la-Programacion/blob/main/Problema1_while.c
 
--- Do-Whilehttps://github.com/MariaCVR/Teoria-de-la-Programacion/blob/main/Problema1_do-while.c
+-- Do-While https://github.com/MariaCVR/Teoria-de-la-Programacion/blob/main/Problema1_do-while.c
 
 **Inverso de un numero**
 
 --For  https://github.com/MariaCVR/Teoria-de-la-Programacion/blob/main/Problema2_for.c
 
--- Whilehttps://github.com/MariaCVR/Teoria-de-la-Programacion/blob/main/Problema2_while.c
+-- While https://github.com/MariaCVR/Teoria-de-la-Programacion/blob/main/Problema2_while.c
 
 -- Do While https://github.com/MariaCVR/Teoria-de-la-Programacion/blob/main/Problema2_do-while.c
 
